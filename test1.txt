@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is C265-7831
+
+ Directory of C:\Users\e605745\Desktop\MyProject
+
+02/10/2021  02:31 PM    <DIR>          .
+02/10/2021  02:31 PM    <DIR>          ..
+02/10/2021  02:31 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  836,697,198,592 bytes free
